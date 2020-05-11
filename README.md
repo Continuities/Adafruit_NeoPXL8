@@ -1,3 +1,7 @@
+# WS2811 fork
+Timings tweaked to match the WS2811 protocol.
+Uses even MOAR memory than the original library, but it works.
+
 # Adafruit_NeoPXL8
 DMA-driven 8-way concurrent NeoPixel driver for SAMD21 (M0+) boards.
 Requires latest Adafruit_NeoPixel and Adafruit_ZeroDMA libraries.
